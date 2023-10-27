@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we use Spark with Python to find the average number of friends for each age group person**.<br></br>
+**In this project we use Spark with Python to find the average number of friends for each age group person for a given dataset**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
