@@ -13,8 +13,8 @@ Apache Spark is an open-source unified analytics engine for large-scale data pro
 
 **This dataset which we downloaded contains 3 columns:** <br></br>
  **(Name):** The name of person<br></br>
- **(Age):** The age of person
- **(Num-Friends):** Number of Friends of that person
+ **(Age):** The age of person<br></br>
+ **(Num-Friends):** Number of Friends of that person<br></br>
 
 **Important Note: Go through the dataset before jumping to the code.**
 
