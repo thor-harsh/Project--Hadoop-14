@@ -18,9 +18,6 @@ Apache Spark is an open-source unified analytics engine for large-scale data pro
 
 **Important Note: Go through the dataset before jumping to the code.**
 
-
-
-
-
-  
 </table>
+
+**So what are you waiting for...? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
